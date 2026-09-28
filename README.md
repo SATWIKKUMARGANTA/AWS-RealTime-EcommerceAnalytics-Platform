@@ -1,4 +1,4 @@
-# AWS Real-Time E-commerce Analytics Platform
+# AWS RealTime E-commerce Analytics Platform
 
 A Serverless Data Engineering Project using Medallion Architecture (Bronze-Silver-Gold) with AWS.
 
